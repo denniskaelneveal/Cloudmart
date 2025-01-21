@@ -1,0 +1,38 @@
+form{
+    background-color: red;
+margin: 0 auto;
+padding: 50px;
+width: 40%;
+box-shadow: blue;
+}
+legend{
+    text-align: center;
+    color: #e8e1e1;
+    text-shadow: black;
+    font-weight: bolder;
+}
+input[type=tel],input[type=email],input[type=password],input[type=text]{
+width: 100%;
+border-radius: 30px;
+border: none;height: 40px
+box-shadow
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
